@@ -6,5 +6,6 @@ public class DemoGuruPage {
 		System.out.println("Git Demo");
 		System.out.println("New Commit");
 		System.out.println("Pull Added");
+		System.out.println("Pull... Added");
 	}
 }
